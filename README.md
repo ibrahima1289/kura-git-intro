@@ -1,5 +1,6 @@
 # kura_test_repo
-
+![Husky-Dog](![image](https://user-images.githubusercontent.com/86819806/125701576-c5b06b21-a225-42d1-909a-602cb08f40f5.png)
+)
 ### Three hashtags are the biggest font
 
 **Double stars is words in bold
