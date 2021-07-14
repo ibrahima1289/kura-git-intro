@@ -1,4 +1,4 @@
-# kura_test_repo
+# Dog pic
 ![Dog](https://i.pinimg.com/736x/6f/9e/b7/6f9eb7ea30ea2558257131083c26f47b.jpg)
 ### Three hashtags are the biggest font
 
