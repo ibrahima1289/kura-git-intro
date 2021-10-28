@@ -1,6 +1,6 @@
 # About
 
-This repo is for github tutorial;
+This repo is for github writing tutorial.
 
 ## 1. Use of hashtags
 
