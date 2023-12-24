@@ -43,8 +43,5 @@ Using the sign `*` will also modify the type of the text.
 ```
 ![picture_name_here](url_here)
 ```
-
+[Picture Credit](https://i.pinimg.com/736x/6f/9e/b7/6f9eb7ea30ea2558257131083c26f47b.jpg)<br>
 ![Dog](https://i.pinimg.com/736x/6f/9e/b7/6f9eb7ea30ea2558257131083c26f47b.jpg)
-
-## Sources:
-* [Picture Credit](https://i.pinimg.com/736x/6f/9e/b7/6f9eb7ea30ea2558257131083c26f47b.jpg)
